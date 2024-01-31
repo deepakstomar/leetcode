@@ -1,4 +1,6 @@
 
+# Link --> https://leetcode.com/problems/two-sum/
+
 def two_sum(nums, target):
     nums_dict = {}
     n = len(nums)
